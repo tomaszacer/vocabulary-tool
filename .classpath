@@ -1,0 +1,16 @@
+<classpath>
+  <classpathentry kind="src" path="src\main\scala"/>
+  <classpathentry kind="src" path="src\main\java"/>
+  <classpathentry kind="src" path="src\main\resources"/>
+  <classpathentry kind="src" path="src\test\scala"/>
+  <classpathentry kind="src" path="src\test\java"/>
+  <classpathentry kind="src" path="src\test\resources"/>
+  <classpathentry kind="con" path="org.scala-ide.sdt.launching.SCALA_CONTAINER"/>
+  <classpathentry kind="lib" path="C:\Documents and Settings\Tomek\.ivy2\cache\com.h2database\h2\jars\h2-1.4.191.jar"/>
+  <classpathentry kind="lib" path="C:\Documents and Settings\Tomek\.ivy2\cache\org.scala-lang.modules\scala-parser-combinators_2.11\bundles\scala-parser-combinators_2.11-1.0.4.jar"/>
+  <classpathentry kind="lib" path="C:\Documents and Settings\Tomek\.ivy2\cache\org.scalactic\scalactic_2.11\bundles\scalactic_2.11-2.2.6.jar"/>
+  <classpathentry kind="lib" path="C:\Documents and Settings\Tomek\.ivy2\cache\org.scalatest\scalatest_2.11\bundles\scalatest_2.11-2.2.6.jar"/>
+  <classpathentry kind="lib" path="C:\Documents and Settings\Tomek\.ivy2\cache\org.scala-lang.modules\scala-xml_2.11\bundles\scala-xml_2.11-1.0.2.jar"/>
+  <classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+  <classpathentry kind="output" path="bin"/>
+</classpath>
